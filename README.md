@@ -1,5 +1,6 @@
 # CryptoTrack1
 
+
 ## Project Structure
 
 - `/client` - Contains the React frontend application.
